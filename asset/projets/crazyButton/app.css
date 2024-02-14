@@ -1,0 +1,9 @@
+
+body {
+    overflow: hidden;
+}
+.btns {
+    width: 250px;
+    height: 100px;
+    position: absolute;
+}
